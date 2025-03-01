@@ -2,9 +2,9 @@
   "name": "ci-cd-testing",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ "scripts": {
+  "test": "echo \"No actual tests yet\""
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ujjwalprabhas/ci-cd-testing.git"
