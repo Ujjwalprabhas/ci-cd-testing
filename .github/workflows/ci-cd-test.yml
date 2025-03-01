@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: CI/CD Test Workflow
+=======
+name: CI/CD Pipeline
+>>>>>>> 46d177d (Added CI/CD workflow)
 
 on:
   push:
